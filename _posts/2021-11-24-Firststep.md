@@ -9,7 +9,7 @@ title:  "게으른 철학자"
 흰 종이에 검은 글씨를 써 내려가는 일이.
 
 <div style="text-align: center;">
-<img src="..\_images\21-11-24-2.jpg" alt="21-11-24-2" style="zoom:33%;" />
+<img src="../_images/21-11-24-2.jpg" alt="21-11-24-2" style="zoom:33%;" />
 </div>
 
 
@@ -18,7 +18,7 @@ title:  "게으른 철학자"
 
 
 <div style="text-align: center;">
-<img src="..\_images\21-11-24-1.jpg" alt="21-11-24-1" style="zoom: 33%;" />
+<img src="../_images/21-11-24-1.jpg" alt="21-11-24-1" style="zoom: 33%;" />
 </div>
 
 
@@ -29,7 +29,7 @@ title:  "게으른 철학자"
 
 
 <div style="text-align: center;">
-<img src="..\_images\21-11-24-3.jpg" alt="21-11-24-3" style="zoom:33%;" />
+<img src="../_images/21-11-24-3.jpg" alt="21-11-24-3" style="zoom:33%;" />
 </div>
 
 나는 아주아주 게으른 철학자다. 하지만 부지런히 새로운 화약을 들고, 새로운 그림을 들고 이곳에 나타날 것이다. 내가 적어낸 모든 말들은 지독하게 날이 선 칼날 끝을 붙잡고 찌른 하나의 점이다.
