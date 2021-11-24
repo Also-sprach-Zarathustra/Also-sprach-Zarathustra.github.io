@@ -9,7 +9,7 @@ title:  "게으른 철학자"
 흰 종이에 검은 글씨를 써 내려가는 일이.
 
 <div style="text-align: center;">
-<img src="../_images/21-11-24-2.jpg" alt="21-11-24-2" style="zoom:33%;" />
+<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/raw/master/_images/21-11-24-2.jpg" alt="21-11-24-2" style="zoom:33%;" />
 </div>
 
 
