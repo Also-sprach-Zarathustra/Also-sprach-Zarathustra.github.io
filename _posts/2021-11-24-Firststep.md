@@ -18,7 +18,7 @@ title:  "게으른 철학자"
 
 
 <div style="text-align: center;">
-<img src="../_images/21-11-24-1.jpg" alt="21-11-24-1" style="zoom: 33%;" />
+<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/blob/master/_images/21-11-24-3.jpg?raw=true" alt="21-11-24-1" style="zoom: 33%;" />
 </div>
 
 
