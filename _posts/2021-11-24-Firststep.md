@@ -15,7 +15,7 @@ classes: wide
 </p>
 
 <div style="text-align: center;">
-<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/raw/master/_images/21-11-24-2.jpg" alt="21-11-24-2" style="zoom:33%;" />
+<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/blob/master/assets/images/21-11-24-2.jpg?raw=true" alt="21-11-24-2" style="zoom:33%;" />
 </div>
 
 <br><br>
@@ -28,7 +28,7 @@ classes: wide
 
 
 <div style="text-align: center;">
-<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/blob/master/_images/21-11-24-1.jpg?raw=true" alt="21-11-24-1" style="zoom: 50%;" />
+<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/blob/master/assets/images/21-11-24-1.jpg?raw=true" alt="21-11-24-1" style="zoom: 50%;" />
 </div>
 
 <p>
@@ -41,7 +41,7 @@ classes: wide
 
 
 <div style="text-align: center;">
-<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/blob/master/_images/21.11.24-brush.jpg?raw=true" alt="21-11-24-3" style="zoom:33%;" />
+<img src="https://github.com/Also-sprach-Zarathustra/Also-sprach-Zarathustra.github.io/blob/master/assets/images/21-11-24-3.jpg?raw=true" alt="21-11-24-3" style="zoom:33%;" />
 </div>
 <p>
 <br><br>
